@@ -1,33 +1,12 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="sahen — software, systems, algorithms" />
-</p>
+# sahen
 
-<p align="center">
-  <a href="https://sahen.jp">sahen.jp</a>
-</p>
+コードを書いたり、挙動を調べたりしています。
+最近は経路探索、Webランタイム、セキュリティ周り。
 
-## 01 / Selected work
+### projects
 
-### [Aegis ACBS](https://github.com/sahenjp/aegis-acbs) ↗
-Exact bidirectional shortest-path search with a shared proof of optimality.  
-<sub>graph algorithms · routing · reproducible research</sub>
+- **[Aegis ACBS](https://github.com/sahenjp/aegis-acbs)** — 双方向最短経路探索の研究実装
+- **[Nelo](https://github.com/sahenjp/Nelo)** — request lifetime / delivery scope を扱う TypeScript framework
+- **[Lvau](https://github.com/sahenjp/lvau)** — Rust のファイル暗号化ツール
 
-### [Nelo](https://github.com/sahenjp/Nelo) ↗
-A runtime-aware web framework built around explicit request lifetimes and delivery scopes.  
-<sub>TypeScript · web runtimes · lifecycle semantics</sub>
-
-### [Lvau](https://github.com/sahenjp/lvau) ↗
-File-encryption tooling written in Rust.  
-<sub>Rust · cryptography tooling · CLI</sub>
-
----
-
-## 02 / Working on
-
-Algorithms, systems software, security, and developer tooling.
-
-I care about small interfaces, reproducible results, and software whose behavior can be explained rather than guessed.
-
----
-
-<sub>Japan · <a href="https://sahen.jp">sahen.jp</a></sub>
+[sahen.jp](https://sahen.jp)
