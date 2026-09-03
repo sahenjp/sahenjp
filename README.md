@@ -1,33 +1,14 @@
 # sahen
 
-実装して、測って、壊して、直しています。
+作りたいものを作ってます。
+最近は最短経路を速く探す方法ばかり考えてます。
 
-経路探索、Webランタイム、セキュリティあたりを触っています。
+### 今触ってるもの
 
----
+- **[Aegis ACBS](https://github.com/sahenjp/aegis-acbs)** — 双方向最短経路探索。今いちばん触ってるやつ。
+- **[Nelo](https://github.com/sahenjp/Nelo)** — TypeScript の Web framework。実行環境とかライフタイム周りをちゃんと扱いたくて作ってます。
+- **[Lvau](https://github.com/sahenjp/lvau)** — Rust で作ったファイル暗号化ツール。
 
-## Aegis ACBS
+Web、セキュリティ、アルゴリズムあたりが好きです。
 
-**Exact bidirectional shortest-path search with a shared proof of optimality.**
-
-双方向最短経路探索の研究実装。探索の両方向をひとつの証明枠組みの中で進めます。
-
-→ [sahenjp/aegis-acbs](https://github.com/sahenjp/aegis-acbs)
-
-<br>
-
-### Nelo
-
-Request lifetime と delivery scope を明示的に扱う TypeScript の Web framework。
-
-→ [sahenjp/Nelo](https://github.com/sahenjp/Nelo)
-
-### Lvau
-
-Rust で書いたファイル暗号化ツール。
-
-→ [sahenjp/lvau](https://github.com/sahenjp/lvau)
-
----
-
-[sahen.jp](https://sahen.jp)
+🌐 [sahen.jp](https://sahen.jp)
