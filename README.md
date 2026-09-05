@@ -102,4 +102,4 @@ Local file encryption across CLI and native GUI.
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3174zob3smqhorhqpincnu2rlvmq&amp;cover_image=true&amp;theme=spotify-embed&amp;show_offline=true&amp;background_color=0d1117&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=1DB954&amp;bar_color_cover=true&amp;border_radius=16&amp;mode=dark" width="360" alt="Spotify now playing" />
   </a>
 </div>
-<span style="color: red;">test</span>
+<span style="color: red;">ニョ</span>
