@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="40" viewBox="0 0 154 40" role="img" aria-label="Repositories">
+  <style>
+    .bg{fill:#f6f8fa;stroke:#d0d7de}.fg{fill:#24292f}.muted{stroke:#57606a}
+    @media (prefers-color-scheme:dark){.bg{fill:#161b22;stroke:#30363d}.fg{fill:#f0f6fc}.muted{stroke:#8c959f}}
+    text{font:600 13px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  </style>
+  <rect class="bg" x=".5" y=".5" width="153" height="39" rx="13"/>
+  <path d="M13 15.5h10.5v10H13zM15.5 13v5M21 23v4" fill="none" class="muted" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text class="fg" x="33" y="24.5">Repositories</text>
+  <path d="M133 16h5v5M138 16l-7 7" fill="none" class="muted" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -2,13 +2,13 @@
 
 # sahen
 
-Web、ランタイム、システム。気になったものを作って、測って、改善しています。
+Student developer in Japan — web, runtimes, systems, and algorithms.
 
 <br>
 
-<a href="https://sahen.site"><img src="https://img.shields.io/badge/sahen.site-18181B?style=flat" alt="sahen.site" /></a>
-<a href="mailto:hello@sahen.site"><img src="https://img.shields.io/badge/hello%40sahen.site-18181B?style=flat" alt="hello@sahen.site" /></a>
-<a href="https://github.com/sahenjp?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18181B?style=flat&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://sahen.site"><img src="./assets/button-site.svg" height="40" alt="sahen.site" /></a>&nbsp;
+<a href="mailto:hello@sahen.site"><img src="./assets/button-mail.svg" height="40" alt="hello@sahen.site" /></a>&nbsp;
+<a href="https://github.com/sahenjp?tab=repositories"><img src="./assets/button-repos.svg" height="40" alt="Repositories" /></a>
 
 </div>
 
@@ -22,28 +22,28 @@ Web、ランタイム、システム。気になったものを作って、測�
 
 <p align="center">
   <a href="https://github.com/sahenjp/aegis-acbs">
-    <img src="https://cdn.simpleicons.org/go/00ADD8" width="40" height="40" alt="Go" />
+    <img src="https://cdn.simpleicons.org/go/00ADD8" width="38" height="38" alt="Go" />
   </a>
 </p>
 
 <h3 align="center"><a href="https://github.com/sahenjp/aegis-acbs">Aegis ACBS</a></h3>
 
-重み付き有向グラフの双方向最短経路探索と、再現可能なベンチマーク。
+Exact bidirectional shortest-path search with reproducible benchmarks.
 
-<sub>Go · algorithms · benchmarking</sub>
+<sub>Go · graph algorithms · benchmarking</sub>
 
 </td>
 <td width="33%" valign="top">
 
 <p align="center">
   <a href="https://github.com/sahenjp/Nelo">
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript" />
+    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="38" height="38" alt="TypeScript" />
   </a>
 </p>
 
 <h3 align="center"><a href="https://github.com/sahenjp/Nelo">Nelo</a></h3>
 
-Request単位でタスク、キャンセル、リソースを扱うTypeScript runtime。
+Request-owned tasks, cancellation, and resource lifetimes for TypeScript.
 
 <sub>TypeScript · Web Standards · Node.js / Deno</sub>
 
@@ -52,19 +52,37 @@ Request単位でタスク、キャンセル、リソースを扱うTypeScript ru
 
 <p align="center">
   <a href="https://github.com/sahenjp/lvau">
-    <img src="https://cdn.simpleicons.org/rust/CE422B" width="40" height="40" alt="Rust" />
+    <img src="https://cdn.simpleicons.org/rust/CE422B" width="38" height="38" alt="Rust" />
   </a>
 </p>
 
 <h3 align="center"><a href="https://github.com/sahenjp/lvau">Lvau</a></h3>
 
-CLI、GUI、versioned formatをまとめたRust製ローカル暗号化ツール。
+Local file encryption with a CLI, native GUI, and versioned format.
 
 <sub>Rust · XChaCha20-Poly1305 · Argon2id</sub>
 
 </td>
 </tr>
 </table>
+
+<br>
+
+## Stack
+
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="56" height="56" alt="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rust/CE422B" width="48" height="48" alt="Rust" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/go/00ADD8" width="50" height="50" alt="Go" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="56" height="56" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="56" height="56" alt="React" />
+  <br>
+  <sub>TypeScript · Rust · Go · Python · React</sub>
+</div>
 
 <br>
 
@@ -77,40 +95,10 @@ CLI、GUI、versioned formatをまとめたRust製ローカル暗号化ツール
 
 <br>
 
-## Stack
+## Listening
 
-### Languages
-
-<table>
-<tr>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" height="32" alt="TypeScript" /><br><sub>TypeScript</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/rust/CE422B" width="32" height="32" alt="Rust" /><br><sub>Rust</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/go/00ADD8" width="32" height="32" alt="Go" /><br><sub>Go</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/python/3776AB" width="32" height="32" alt="Python" /><br><sub>Python</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" height="32" alt="JavaScript" /><br><sub>JavaScript</sub></td>
-</tr>
-</table>
-
-### Web
-
-<table>
-<tr>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/react/61DAFB" width="32" height="32" alt="React" /><br><sub>React</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/nextdotjs/999999" width="32" height="32" alt="Next.js" /><br><sub>Next.js</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="32" height="32" alt="Astro" /><br><sub>Astro</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="32" height="32" alt="Node.js" /><br><sub>Node.js</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/deno/888888" width="32" height="32" alt="Deno" /><br><sub>Deno</sub></td>
-</tr>
-</table>
-
-### Services
-
-<table>
-<tr>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/github/999999" width="32" height="32" alt="GitHub" /><br><sub>GitHub</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="32" height="32" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/vercel/999999" width="32" height="32" alt="Vercel" /><br><sub>Vercel</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/notion/999999" width="32" height="32" alt="Notion" /><br><sub>Notion</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="32" height="32" alt="Supabase" /><br><sub>Supabase</sub></td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3174zob3smqhorhqpincnu2rlvmq&amp;redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3174zob3smqhorhqpincnu2rlvmq&amp;cover_image=true&amp;theme=compact&amp;show_offline=true&amp;background_color=0d1117&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=2f81f7&amp;bar_color_cover=false&amp;border_radius=18" width="420" alt="Spotify now playing" />
+  </a>
+</div>
