@@ -56,4 +56,4 @@ Web、ランタイム、システム、アルゴリズムを作っています�
 | --- | --- |
 | **Aegis ACBS** | 双方向最短経路探索と再現可能なベンチマーク |
 | **Nelo** | Request lifetime と Web runtime の実験 |
-| **Lvau** | Rust で作るローカルファイル暗号化 |
+| **Lvau** | Rust で作るファイル暗号化 |
