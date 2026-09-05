@@ -6,9 +6,9 @@ Web、ランタイム、システム。気になったものを作って、測�
 
 <br>
 
-<a href="https://sahen.site"><img src="https://img.shields.io/badge/sahen.site-18181B?style=for-the-badge" alt="sahen.site" /></a>
-<a href="mailto:hello@sahen.site"><img src="https://img.shields.io/badge/hello%40sahen.site-18181B?style=for-the-badge" alt="hello@sahen.site" /></a>
-<a href="https://github.com/sahenjp?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="https://sahen.site"><img src="https://img.shields.io/badge/sahen.site-18181B?style=flat" alt="sahen.site" /></a>
+<a href="mailto:hello@sahen.site"><img src="https://img.shields.io/badge/hello%40sahen.site-18181B?style=flat" alt="hello@sahen.site" /></a>
+<a href="https://github.com/sahenjp?tab=repositories"><img src="https://img.shields.io/badge/Repositories-18181B?style=flat&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
