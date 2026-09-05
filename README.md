@@ -66,23 +66,32 @@ CLI、GUI、独自形式をひとつのworkspaceで扱うローカルファイ�
 
 ## Working with
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="38" height="38" alt="TypeScript" title="TypeScript" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rust/CE422B" width="38" height="38" alt="Rust" title="Rust" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/go/00ADD8" width="38" height="38" alt="Go" title="Go" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="38" height="38" alt="Python" title="Python" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/astro/BC52EE" width="38" height="38" alt="Astro" title="Astro" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="38" height="38" alt="Cloudflare" title="Cloudflare" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git/F05032" width="38" height="38" alt="Git" title="Git" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="38" height="38" alt="Linux" title="Linux" />
-</p>
+<table>
+<tr>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="34" height="34" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="34" height="34" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/python/3776AB" width="34" height="34" alt="Python" /><br><sub>Python</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/go/00ADD8" width="34" height="34" alt="Go" /><br><sub>Go</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/rust/CE422B" width="34" height="34" alt="Rust" /><br><sub>Rust</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/react/61DAFB" width="34" height="34" alt="React" /><br><sub>React</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/999999" width="34" height="34" alt="Next.js" /><br><sub>Next.js</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="34" height="34" alt="FastAPI" /><br><sub>FastAPI</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="34" height="34" alt="Docker" /><br><sub>Docker</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="34" height="34" alt="Terraform" /><br><sub>Terraform</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="34" height="34" alt="AWS" /><br><sub>AWS</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="34" height="34" alt="Supabase" /><br><sub>Supabase</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="34" height="34" alt="Node.js" /><br><sub>Node.js</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/deno/888888" width="34" height="34" alt="Deno" /><br><sub>Deno</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="34" height="34" alt="Astro" /><br><sub>Astro</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="34" height="34" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="34" height="34" alt="Git" /><br><sub>Git</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="34" height="34" alt="Linux" /><br><sub>Linux</sub></td>
+</tr>
+</table>
 
 <br>
 
