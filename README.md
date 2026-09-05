@@ -71,10 +71,10 @@ CLI、GUI、独自形式をひとつのworkspaceで扱うローカルファイ�
 <table>
 <tr>
 <td align="center" width="20%"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="34" height="34" alt="TypeScript" /><br><sub>TypeScript</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="34" height="34" alt="JavaScript" /><br><sub>JavaScript</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/python/3776AB" width="34" height="34" alt="Python" /><br><sub>Python</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/go/00ADD8" width="34" height="34" alt="Go" /><br><sub>Go</sub></td>
 <td align="center" width="20%"><img src="https://cdn.simpleicons.org/rust/CE422B" width="34" height="34" alt="Rust" /><br><sub>Rust</sub></td>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/go/00ADD8" width="34" height="34" alt="Go" /><br><sub>Go</sub></td>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/python/3776AB" width="34" height="34" alt="Python" /><br><sub>Python</sub></td>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="34" height="34" alt="JavaScript" /><br><sub>JavaScript</sub></td>
 </tr>
 </table>
 
@@ -85,8 +85,8 @@ CLI、GUI、独自形式をひとつのworkspaceで扱うローカルファイ�
 <td align="center" width="20%"><img src="https://cdn.simpleicons.org/react/61DAFB" width="34" height="34" alt="React" /><br><sub>React</sub></td>
 <td align="center" width="20%"><img src="https://cdn.simpleicons.org/nextdotjs/999999" width="34" height="34" alt="Next.js" /><br><sub>Next.js</sub></td>
 <td align="center" width="20%"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="34" height="34" alt="Astro" /><br><sub>Astro</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/fastapi/009688" width="34" height="34" alt="FastAPI" /><br><sub>FastAPI</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="34" height="34" alt="Tailwind CSS" /><br><sub>Tailwind CSS</sub></td>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="34" height="34" alt="Node.js" /><br><sub>Node.js</sub></td>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/deno/888888" width="34" height="34" alt="Deno" /><br><sub>Deno</sub></td>
 </tr>
 </table>
 
@@ -94,11 +94,11 @@ CLI、GUI、独自形式をひとつのworkspaceで扱うローカルファイ�
 
 <table>
 <tr>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/github/999999" width="34" height="34" alt="GitHub" /><br><sub>GitHub</sub></td>
 <td align="center" width="20%"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="34" height="34" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
 <td align="center" width="20%"><img src="https://cdn.simpleicons.org/vercel/999999" width="34" height="34" alt="Vercel" /><br><sub>Vercel</sub></td>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/notion/999999" width="34" height="34" alt="Notion" /><br><sub>Notion</sub></td>
 <td align="center" width="20%"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="34" height="34" alt="Supabase" /><br><sub>Supabase</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="34" height="34" alt="AWS" /><br><sub>AWS</sub></td>
-<td align="center" width="20%"><img src="https://cdn.simpleicons.org/github/999999" width="34" height="34" alt="GitHub" /><br><sub>GitHub</sub></td>
 </tr>
 </table>
 
