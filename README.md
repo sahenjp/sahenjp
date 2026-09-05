@@ -64,6 +64,15 @@ CLI、GUI、独自形式をひとつのworkspaceで扱うローカルファイ�
 
 <br>
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./activity/lifetime.dark.svg" />
+  <img src="./activity/lifetime.light.svg" width="100%" alt="GitHub contribution history" />
+</picture>
+
+<br>
+
 ## Working with
 
 ### Languages
