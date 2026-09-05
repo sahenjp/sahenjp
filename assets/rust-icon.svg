@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Rust animated icon">
+  <defs>
+    <linearGradient id="rustGradient" x1="18" y1="16" x2="82" y2="84" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f27d52"/>
+      <stop offset="0.52" stop-color="#ce422b"/>
+      <stop offset="1" stop-color="#8f2d20"/>
+    </linearGradient>
+    <radialGradient id="coreGradient" cx="38%" cy="32%" r="72%">
+      <stop offset="0" stop-color="#fff1eb"/>
+      <stop offset="1" stop-color="#f3b09b"/>
+    </radialGradient>
+    <style>
+      .ring { stroke: #9f3325; }
+      .coreText { fill: #7f281d; }
+      @media (prefers-color-scheme: dark) {
+        .ring { stroke: #f08a68; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .motion { display: none; }
+      }
+    </style>
+  </defs>
+
+  <g transform="translate(50 50)">
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+      <g fill="url(#rustGradient)">
+        <rect x="-4" y="-45" width="8" height="15" rx="3"/>
+        <rect x="-4" y="30" width="8" height="15" rx="3"/>
+        <rect x="30" y="-4" width="15" height="8" rx="3"/>
+        <rect x="-45" y="-4" width="15" height="8" rx="3"/>
+        <rect x="22" y="-36" width="8" height="15" rx="3" transform="rotate(45 26 -28.5)"/>
+        <rect x="22" y="21" width="8" height="15" rx="3" transform="rotate(135 26 28.5)"/>
+        <rect x="-30" y="21" width="8" height="15" rx="3" transform="rotate(45 -26 28.5)"/>
+        <rect x="-30" y="-36" width="8" height="15" rx="3" transform="rotate(135 -26 -28.5)"/>
+      </g>
+      <circle r="34" fill="none" stroke="url(#rustGradient)" stroke-width="9"/>
+      <circle r="25" fill="none" class="ring" stroke-width="2" stroke-dasharray="3 5"/>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="scale" values="1;1.045;1" dur="2.8s" repeatCount="indefinite"/>
+      <circle r="20" fill="url(#coreGradient)"/>
+      <text x="0" y="8" text-anchor="middle" class="coreText" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="27" font-weight="800">R</text>
+    </g>
+
+    <g class="motion">
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="4.6s" repeatCount="indefinite"/>
+      <circle cx="0" cy="-39" r="3.3" fill="#f7c4b4" stroke="#ce422b" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
