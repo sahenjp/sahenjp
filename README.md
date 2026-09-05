@@ -73,7 +73,7 @@ Local file encryption across CLI and native GUI.
 <div align="center">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" />
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/rust/CE422B" width="52" height="52" alt="Rust" />
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="Python" />
   &nbsp;&nbsp;
@@ -81,7 +81,7 @@ Local file encryption across CLI and native GUI.
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" height="58" alt="GitHub" />
   <br>
-  <sub>TypeScript · JavaScript · Python · React · GitHub</sub>
+  <sub>TypeScript · Rust · Python · React · GitHub</sub>
 </div>
 
 <br>
