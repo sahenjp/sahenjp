@@ -73,7 +73,7 @@ Local file encryption across CLI and native GUI.
 <div align="center">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" />
   &nbsp;&nbsp;
-  <img src="./assets/rust-icon.svg" width="58" height="58" alt="Rust" />
+  <a href="https://github.com/vincenzo-afk/vincenzo-afk/blob/15add2ec8bf4ee5fceae8b41577553e2c1a88e29/assets/icons/rust.svg"><img src="https://raw.githubusercontent.com/vincenzo-afk/vincenzo-afk/15add2ec8bf4ee5fceae8b41577553e2c1a88e29/assets/icons/rust.svg" width="58" height="58" alt="Rust" /></a>
   &nbsp;&nbsp;
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="Python" />
   &nbsp;&nbsp;
