@@ -3,16 +3,24 @@
   Original: Rust Foundation / Wikimedia Commons
   Source: https://commons.wikimedia.org/wiki/File:Rust_programming_language_black_logo.svg
   License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
-  Modification: the logo is recolored in a Rust-inspired orange palette, and only the outer gear group is animated with a continuous rotation; the R remains stationary.
+  Modification: only the outer gear group is animated with a continuous rotation; the R remains stationary. The official black/white logo colors are used for light/dark themes.
 -->
 <svg version="1.1" height="106" width="106" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+  .rust-fill { fill: #000000; }
+  .rust-stroke { stroke: #000000; }
+  @media (prefers-color-scheme: dark) {
+    .rust-fill { fill: #ffffff; }
+    .rust-stroke { stroke: #ffffff; }
+  }
+</style>
 <g id="logo" transform="translate(53, 53)">
-  <path id="r" transform="translate(0.5, 0.5)" fill="#CE422B" stroke="#9E3427" stroke-width="1" stroke-linejoin="round" d="     M -9,-15 H 4 C 12,-15 12,-7 4,-7 H -9 Z     M -40,22 H 0 V 11 H -9 V 3 H 1 C 12,3 6,22 15,22 H 40     V 3 H 34 V 5 C 34,13 25,12 24,7 C 23,2 19,-2 18,-2 C 33,-10 24,-26 12,-26 H -35     V -15 H -25 V 11 H -40 Z"/>
+  <path id="r" class="rust-fill rust-stroke" transform="translate(0.5, 0.5)" stroke-width="1" stroke-linejoin="round" d="     M -9,-15 H 4 C 12,-15 12,-7 4,-7 H -9 Z     M -40,22 H 0 V 11 H -9 V 3 H 1 C 12,3 6,22 15,22 H 40     V 3 H 34 V 5 C 34,13 25,12 24,7 C 23,2 19,-2 18,-2 C 33,-10 24,-26 12,-26 H -35     V -15 H -25 V 11 H -40 Z"/>
   <g id="gear" mask="url(#holes)">
     <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="8s" repeatCount="indefinite" calcMode="linear"/>
-    <circle r="43" fill="none" stroke="#CE422B" stroke-width="9"/>
+    <circle r="43" fill="none" class="rust-stroke" stroke-width="9"/>
     <g id="cogs">
-      <polygon id="cog" fill="#CE422B" stroke="#9E3427" stroke-width="3" stroke-linejoin="round" points="46,3 51,0 46,-3"/>
+      <polygon id="cog" class="rust-fill rust-stroke" stroke-width="3" stroke-linejoin="round" points="46,3 51,0 46,-3"/>
       <use xlink:href="#cog" transform="rotate(11.25)"/>
       <use xlink:href="#cog" transform="rotate(22.50)"/>
       <use xlink:href="#cog" transform="rotate(33.75)"/>
@@ -46,7 +54,7 @@
       <use xlink:href="#cog" transform="rotate(348.75)"/>
     </g>
     <g id="mounts">
-      <polygon id="mount" fill="#CE422B" stroke="#9E3427" stroke-width="6" stroke-linejoin="round" points="-7,-42 0,-35 7,-42"/>
+      <polygon id="mount" class="rust-fill rust-stroke" stroke-width="6" stroke-linejoin="round" points="-7,-42 0,-35 7,-42"/>
       <use xlink:href="#mount" transform="rotate(72)"/>
       <use xlink:href="#mount" transform="rotate(144)"/>
       <use xlink:href="#mount" transform="rotate(216)"/>
