@@ -66,6 +66,8 @@ CLI、GUI、独自形式をひとつのworkspaceで扱うローカルファイ�
 
 ## Working with
 
+### Languages
+
 <table>
 <tr>
 <td align="center" width="16%"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="34" height="34" alt="TypeScript" /><br><sub>TypeScript</sub></td>
@@ -73,23 +75,49 @@ CLI、GUI、独自形式をひとつのworkspaceで扱うローカルファイ�
 <td align="center" width="16%"><img src="https://cdn.simpleicons.org/python/3776AB" width="34" height="34" alt="Python" /><br><sub>Python</sub></td>
 <td align="center" width="16%"><img src="https://cdn.simpleicons.org/go/00ADD8" width="34" height="34" alt="Go" /><br><sub>Go</sub></td>
 <td align="center" width="16%"><img src="https://cdn.simpleicons.org/rust/CE422B" width="34" height="34" alt="Rust" /><br><sub>Rust</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="34" height="34" alt="Bash" /><br><sub>Bash</sub></td>
+</tr>
+</table>
+
+### Web
+
+<table>
+<tr>
 <td align="center" width="16%"><img src="https://cdn.simpleicons.org/react/61DAFB" width="34" height="34" alt="React" /><br><sub>React</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/nextdotjs/999999" width="34" height="34" alt="Next.js" /><br><sub>Next.js</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="34" height="34" alt="Astro" /><br><sub>Astro</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/fastapi/009688" width="34" height="34" alt="FastAPI" /><br><sub>FastAPI</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="34" height="34" alt="Tailwind CSS" /><br><sub>Tailwind CSS</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/shadcnui/999999" width="34" height="34" alt="shadcn/ui" /><br><sub>shadcn/ui</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/999999" width="34" height="34" alt="Next.js" /><br><sub>Next.js</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/fastapi/009688" width="34" height="34" alt="FastAPI" /><br><sub>FastAPI</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="34" height="34" alt="Docker" /><br><sub>Docker</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="34" height="34" alt="Terraform" /><br><sub>Terraform</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="34" height="34" alt="AWS" /><br><sub>AWS</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="34" height="34" alt="Supabase" /><br><sub>Supabase</sub></td>
-</tr>
-<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/radixui/999999" width="34" height="34" alt="Radix UI" /><br><sub>Radix UI</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="34" height="34" alt="Node.js" /><br><sub>Node.js</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/deno/888888" width="34" height="34" alt="Deno" /><br><sub>Deno</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="34" height="34" alt="Astro" /><br><sub>Astro</sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="34" height="34" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vite/646CFF" width="34" height="34" alt="Vite" /><br><sub>Vite</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="34" height="34" alt="Supabase" /><br><sub>Supabase</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/999999" width="34" height="34" alt="Vercel" /><br><sub>Vercel</sub></td>
+</tr>
+</table>
+
+### Infrastructure & tooling
+
+<table>
+<tr>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/docker/2496ED" width="34" height="34" alt="Docker" /><br><sub>Docker</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="34" height="34" alt="Terraform" /><br><sub>Terraform</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="34" height="34" alt="AWS" /><br><sub>AWS</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="34" height="34" alt="Cloudflare" /><br><sub>Cloudflare</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/cloudflareworkers/F38020" width="34" height="34" alt="Cloudflare Workers" /><br><sub>Workers</sub></td>
+<td align="center" width="16%"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="34" height="34" alt="GitHub Actions" /><br><sub>GitHub Actions</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="34" height="34" alt="Git" /><br><sub>Git</sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="34" height="34" alt="Linux" /><br><sub>Linux</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/pnpm/F69220" width="34" height="34" alt="pnpm" /><br><sub>pnpm</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/eslint/4B32C3" width="34" height="34" alt="ESLint" /><br><sub>ESLint</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/prettier/F7B93E" width="34" height="34" alt="Prettier" /><br><sub>Prettier</sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/powershell/5391FE" width="34" height="34" alt="PowerShell" /><br><sub>PowerShell</sub></td>
 </tr>
 </table>
 
