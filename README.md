@@ -16,6 +16,8 @@ Student developer in Japan
 
 ## Selected work
 
+> **AI usage disclosure:** AI tools were used for most of the development of Aegis ACBS and Nelo, and for roughly half of the development of Lvau.
+
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -30,7 +32,7 @@ Student developer in Japan
 
 Exact bidirectional shortest paths with reproducible benchmarks.
 
-<sub>Go · algorithms · benchmarking</sub>
+<sub>Go · algorithms · benchmarking · AI: most development</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -45,7 +47,7 @@ Exact bidirectional shortest paths with reproducible benchmarks.
 
 Request-owned work and lifetimes for TypeScript.
 
-<sub>TypeScript · Web Standards · Node.js / Deno</sub>
+<sub>TypeScript · Web Standards · Node.js / Deno · AI: most development</sub>
 
 </td>
 <td width="33%" valign="top">
@@ -60,7 +62,7 @@ Request-owned work and lifetimes for TypeScript.
 
 Local file encryption across CLI and native GUI.
 
-<sub>Rust · XChaCha20-Poly1305 · Argon2id</sub>
+<sub>Rust · XChaCha20-Poly1305 · Argon2id · AI: roughly half</sub>
 
 </td>
 </tr>
