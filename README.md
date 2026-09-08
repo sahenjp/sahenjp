@@ -16,7 +16,7 @@ Student developer in Japan
 
 ## Selected work
 
-> **AI usage disclosure:** AI tools were used for most of the development of Aegis ACBS and Nelo, and for roughly half of the development of Lvau.
+> **AI usage disclosure:** AI tools were used for most of the development of Aegis ACBS and Nelo, and for about half of Lvau.
 
 <table>
 <tr>
