@@ -20,7 +20,7 @@ Student developer in Japan
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <p align="center">
   <a href="https://github.com/jimoto-no-llm/rustdsh">
@@ -35,11 +35,11 @@ Fast Rust launcher for DeepSeek Harness with sub-millisecond startup.
 <sub>Rust · CLI · drop-in compatible · top contributor</sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <p align="center">
   <a href="https://github.com/sahenjp/lvau">
-    <img src="https://cdn.simpleicons.org/rust/CE422B" width="38" height="38" alt="Rust" />
+    <img src="https://github.com/sahenjp/lvau/raw/master/assets/lvau-icon.svg" width="38" height="38" alt="Lvau" />
   </a>
 </p>
 
@@ -50,28 +50,11 @@ Local file encryption across CLI and native GUI.
 <sub>Rust · XChaCha20-Poly1305 · Argon2id · AI: roughly half</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<p align="center">
-  <a href="https://github.com/sahenjp/solidcraft-perf">
-    <img src="https://cdn.simpleicons.org/rust/CE422B" width="38" height="38" alt="Rust" />
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/sahenjp/solidcraft-perf">solidcraft-perf</a></h3>
-
-Measured Pure-Rust 3D CAD fork: speed, memory, and binary size.
-
-<sub>Rust · CAD · benchmarking</sub>
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 <p align="center">
   <a href="https://github.com/sahenjp/auralis">
-    <img src="https://cdn.simpleicons.org/rust/CE422B" width="38" height="38" alt="Rust" />
+    <img src="https://github.com/sahenjp/auralis/raw/main/docs/assets/auralis-wordmark.svg" height="38" alt="auralis" />
   </a>
 </p>
 
