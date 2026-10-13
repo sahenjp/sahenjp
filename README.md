@@ -16,41 +16,26 @@ Student developer in Japan
 
 ## Selected work
 
-> **AI usage disclosure:** AI tools were used for most of the development of Aegis ACBS and Nelo, and for about half of Lvau.
+> **AI usage disclosure:** AI tools were used for about half of Lvau.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <p align="center">
-  <a href="https://github.com/sahenjp/aegis-acbs">
-    <img src="https://cdn.simpleicons.org/go/00ADD8" width="38" height="38" alt="Go" />
+  <a href="https://github.com/jimoto-no-llm/rustdsh">
+    <img src="https://github.com/jimoto-no-llm/rustdsh/raw/main/assets/icon.png" width="38" height="38" alt="rdsh" />
   </a>
 </p>
 
-<h3 align="center"><a href="https://github.com/sahenjp/aegis-acbs">Aegis ACBS</a></h3>
+<h3 align="center"><a href="https://github.com/jimoto-no-llm/rustdsh">rustdsh</a></h3>
 
-Exact bidirectional shortest paths with reproducible benchmarks.
+Fast Rust launcher for DeepSeek Harness with sub-millisecond startup.
 
-<sub>Go · algorithms · benchmarking · AI: most development</sub>
-
-</td>
-<td width="33%" valign="top">
-
-<p align="center">
-  <a href="https://github.com/sahenjp/Nelo">
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="38" height="38" alt="TypeScript" />
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/sahenjp/Nelo">Nelo</a></h3>
-
-Request-owned work and lifetimes for TypeScript.
-
-<sub>TypeScript · Web Standards · Node.js / Deno · AI: most development</sub>
+<sub>Rust · CLI · drop-in compatible · top contributor</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 <p align="center">
   <a href="https://github.com/sahenjp/lvau">
@@ -63,6 +48,38 @@ Request-owned work and lifetimes for TypeScript.
 Local file encryption across CLI and native GUI.
 
 <sub>Rust · XChaCha20-Poly1305 · Argon2id · AI: roughly half</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://github.com/sahenjp/solidcraft-perf">
+    <img src="https://cdn.simpleicons.org/rust/CE422B" width="38" height="38" alt="Rust" />
+  </a>
+</p>
+
+<h3 align="center"><a href="https://github.com/sahenjp/solidcraft-perf">solidcraft-perf</a></h3>
+
+Measured Pure-Rust 3D CAD fork: speed, memory, and binary size.
+
+<sub>Rust · CAD · benchmarking</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<p align="center">
+  <a href="https://github.com/sahenjp/auralis">
+    <img src="https://cdn.simpleicons.org/rust/CE422B" width="38" height="38" alt="Rust" />
+  </a>
+</p>
+
+<h3 align="center"><a href="https://github.com/sahenjp/auralis">auralis</a></h3>
+
+Realtime noise suppression for Windows 11, fully on-device.
+
+<sub>Rust · realtime inference · GUI</sub>
 
 </td>
 </tr>
