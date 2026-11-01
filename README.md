@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🤞HI! I'm Sahen
+# 🤞 Hi, I'm Sahen
 
-Student developer in Japan
+A student developer based in Japan, building tools at the edge of Rust and AI.
 
 <br>
 
@@ -16,7 +16,7 @@ Student developer in Japan
 
 ## Selected work
 
-> **AI usage disclosure:** AI tools were used for about half of Lvau.
+> **Use of AI:** Most of my projects are built with heavy AI assistance.
 
 <table>
 <tr>
@@ -24,13 +24,13 @@ Student developer in Japan
 
 <p align="center">
   <a href="https://github.com/jimoto-no-llm/rustdsh">
-    <img src="https://github.com/jimoto-no-llm/rustdsh/raw/main/assets/icon.png" width="38" height="38" alt="rdsh" />
+    <img src="https://github.com/jimoto-no-llm/rustdsh/raw/main/assets/icon.png" width="44" height="44" alt="rustdsh" />
   </a>
 </p>
 
 <h3 align="center"><a href="https://github.com/jimoto-no-llm/rustdsh">rustdsh</a></h3>
 
-Fast Rust launcher for DeepSeek Harness with sub-millisecond startup.
+A fast Rust launcher for DeepSeek Harness with sub-millisecond startup — so fast it feels instant.
 
 <sub>Rust · CLI · drop-in compatible · top contributor</sub>
 
@@ -39,13 +39,13 @@ Fast Rust launcher for DeepSeek Harness with sub-millisecond startup.
 
 <p align="center">
   <a href="https://github.com/sahenjp/lvau">
-    <img src="https://github.com/sahenjp/lvau/raw/master/assets/lvau-icon.svg" width="38" height="38" alt="Lvau" />
+    <img src="https://github.com/sahenjp/lvau/raw/master/assets/lvau-icon.svg" width="44" height="44" alt="Lvau" />
   </a>
 </p>
 
 <h3 align="center"><a href="https://github.com/sahenjp/lvau">Lvau</a></h3>
 
-Local file encryption across CLI and native GUI.
+Local file encryption across CLI and native GUI, so your data stays yours.
 
 <sub>Rust · XChaCha20-Poly1305 · Argon2id · AI: roughly half</sub>
 
@@ -53,16 +53,14 @@ Local file encryption across CLI and native GUI.
 <td width="33%" valign="top">
 
 <p align="center">
-  <a href="https://github.com/sahenjp/auralis">
-    <img src="https://github.com/sahenjp/auralis/raw/main/docs/assets/auralis-wordmark.svg" height="38" alt="auralis" />
-  </a>
+  &nbsp;
 </p>
 
-<h3 align="center"><a href="https://github.com/sahenjp/auralis">auralis</a></h3>
+<h3 align="center"><a href="https://github.com/sahenjp/RustXNG">RustXNG</a></h3>
 
-Realtime noise suppression for Windows 11, fully on-device.
+A self-hosted metasearch and web-grounding engine for local AI agents. Searches 180+ engines, ranks results, and retrieves page content in a single request, with built-in SSRF protection.
 
-<sub>Rust · realtime inference · GUI</sub>
+<sub>Rust · Metasearch · AI Infrastructure</sub>
 
 </td>
 </tr>
@@ -104,4 +102,5 @@ Realtime noise suppression for Windows 11, fully on-device.
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3174zob3smqhorhqpincnu2rlvmq&amp;cover_image=true&amp;theme=spotify-embed&amp;show_offline=true&amp;background_color=0d1117&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=1DB954&amp;bar_color_cover=true&amp;border_radius=16&amp;mode=dark" width="360" alt="Spotify now playing" />
   </a>
 </div>
+
 <span style="color: red;">ニョ</span>
