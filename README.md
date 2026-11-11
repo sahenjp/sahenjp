@@ -71,15 +71,15 @@ A self-hosted metasearch and web-grounding engine for local AI agents. Searches 
 ## Stack
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" />
+  <img src="./assets/typescript-icon.svg" width="58" height="58" alt="TypeScript" />
   &nbsp;&nbsp;
   <img src="./assets/rust-icon.svg" width="58" height="58" alt="Rust" />
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" alt="Python" />
+  <img src="./assets/python-icon.svg" width="58" height="58" alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="React" />
+  <img src="./assets/react-icon.svg" width="58" height="58" alt="React" />
   &nbsp;&nbsp;
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="58" height="58" alt="GitHub" />
+  <img src="./assets/github-icon.svg" width="58" height="58" alt="GitHub" />
   <br>
   <sub>TypeScript · Rust · Python · React · GitHub</sub>
 </div>
